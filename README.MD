@@ -4,3 +4,4 @@
 >Thinking in Java Four Edition
 #### 第一章:对象导论
 ##### 1.1 抽象过程
+- 我今天学习的是事务,Connection void commit();
